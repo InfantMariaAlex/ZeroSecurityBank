@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43501" started-at="2018-11-28T15:58:46Z" finished-at="2018-11-28T15:59:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43501" started-at="2018-11-28T15:58:46Z" finished-at="2018-11-28T15:59:30Z">
+      <class name="com.basicAction">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.basicAction@1d0fafc]" name="openBrowser" is-config="true" duration-ms="4162" started-at="2018-11-28T21:28:46Z" finished-at="2018-11-28T21:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="appLogin()[pri:1, instance:com.basicAction@1d0fafc]" name="appLogin" duration-ms="10862" started-at="2018-11-28T21:28:50Z" finished-at="2018-11-28T21:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="reteriveAccountBalance()[pri:2, instance:com.basicAction@1d0fafc]" name="reteriveAccountBalance" duration-ms="111" started-at="2018-11-28T21:29:01Z" finished-at="2018-11-28T21:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reteriveAccountBalance -->
+        <test-method status="PASS" signature="clickHyperlink()[pri:3, instance:com.basicAction@1d0fafc]" name="clickHyperlink" duration-ms="18616" started-at="2018-11-28T21:29:01Z" finished-at="2018-11-28T21:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHyperlink -->
+        <test-method status="PASS" signature="verifiyContent()[pri:4, instance:com.basicAction@1d0fafc]" name="verifiyContent" duration-ms="1525" started-at="2018-11-28T21:29:20Z" finished-at="2018-11-28T21:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifiyContent -->
+        <test-method status="PASS" signature="getWithdrawalAmount()[pri:5, instance:com.basicAction@1d0fafc]" name="getWithdrawalAmount" duration-ms="7668" started-at="2018-11-28T21:29:21Z" finished-at="2018-11-28T21:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWithdrawalAmount -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.basicAction@1d0fafc]" name="closeBrowser" is-config="true" duration-ms="464" started-at="2018-11-28T21:29:29Z" finished-at="2018-11-28T21:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.basicAction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
